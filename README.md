@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedrovictorrr
-- 👀 I’m interested in HTML,CSS,JAVASCRIPT,C++
-- 🌱 I’m currently learning JAVASCRIPT 
+- 👀 I’m interested in HTML,CSS,JAVASCRIPT,C++,PHP,LARAVEL,BOOTSTRAP,PYTHON,BLADE
+- 🌱 I’m currently learning JAVASCRIPT,LARAVEL,PHP
 - 💞️ I’m looking to collaborate on WEB DEV
 
 <!---
